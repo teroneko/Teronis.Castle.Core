@@ -8,6 +8,7 @@
 
 	<PropertyGroup>
 		<PackageId>Teronis.Castle.Core-Serilog</PackageId>
+		<PackageVersion>4.4.2-generic-parameter-name-mismatch</PackageVersion>
 		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
 		<PackageOutputPath>../../build/</PackageOutputPath>
 		<AssemblyName>Castle.Services.Logging.SerilogIntegration</AssemblyName>
