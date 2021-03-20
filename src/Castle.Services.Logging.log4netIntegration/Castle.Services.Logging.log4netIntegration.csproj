@@ -7,7 +7,7 @@
 	</PropertyGroup>
 
 	<PropertyGroup>
-		<PackageId>Castle.Core-log4net</PackageId>
+		<PackageId>Teronis.Castle.Core-log4net</PackageId>
 		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
 		<PackageOutputPath>../../build/</PackageOutputPath>
 		<AssemblyName>Castle.Services.Logging.Log4netIntegration</AssemblyName>

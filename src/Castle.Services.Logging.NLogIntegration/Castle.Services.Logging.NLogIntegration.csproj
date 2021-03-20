@@ -7,7 +7,7 @@
 	</PropertyGroup>
 
 	<PropertyGroup>
-		<PackageId>Castle.Core-NLog</PackageId>
+		<PackageId>Teronis.Castle.Core-NLog</PackageId>
 		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
 		<PackageOutputPath>../../build/</PackageOutputPath>
 		<AssemblyName>Castle.Services.Logging.NLogIntegration</AssemblyName>

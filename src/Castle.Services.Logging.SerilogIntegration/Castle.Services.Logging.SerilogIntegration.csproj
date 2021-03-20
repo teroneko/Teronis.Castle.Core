@@ -7,7 +7,7 @@
 	</PropertyGroup>
 
 	<PropertyGroup>
-		<PackageId>Castle.Core-Serilog</PackageId>
+		<PackageId>Teronis.Castle.Core-Serilog</PackageId>
 		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
 		<PackageOutputPath>../../build/</PackageOutputPath>
 		<AssemblyName>Castle.Services.Logging.SerilogIntegration</AssemblyName>
